@@ -7,6 +7,6 @@ resource "aws_lightsail_instance" "gitlab_test" {
 }
 
 resource "aws_iam_user" "lb" {
-  name = "load"
+  name = "loaderrrr"
  
 }
